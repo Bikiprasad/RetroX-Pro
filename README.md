@@ -1,23 +1,23 @@
 
 <H1> RetroX Pro </H1>
-<label>Run the Ghost Protocol. This extension provides a low-signature, custom-calibrated UI overlay for maximum visual stealth and effortless theme shifting.</label>
+<label>Run the Ghost Protocol. This extension provides a low-signature, custom-calibrated UI overlay for maximum visual stealth and effortless theme shifting.</label><br>
+<br>
+##Installation & Setup (Load Unpacked Extension)<br>
 
-#Installation & Setup (Load Unpacked Extension)
+Follow these steps to quickly load and run the RetroX Pro extension in your Chrome browser.<br>
 
-Follow these steps to quickly load and run the RetroX Pro extension in your Chrome browser.
+## Download the Source Code<br>
+  -- Navigate to the repository on GitHub: https://github.com/Bikiprasad/RetroX-Pro<br>
+  -- Select Download ZIP to save the project archive.<br>
+  -- Extract the ZIP file to a local directory (e.g., ~/Projects/RetroX-Pro/).<br><br>
 
-##1. Download the Source Code
-  -- Navigate to the repository on GitHub: https://github.com/Bikiprasad/RetroX-Pro
-  -- Select Download ZIP to save the project archive.
-  -- Extract the ZIP file to a local directory (e.g., ~/Projects/RetroX-Pro/).
+## Load the Extension in Chrome <br>
+  -- Open your browser and go to the Extensions page: chrome://extensions/<br>
+  -- In the top-right corner, switch the Developer mode toggle to ON.<br>
+  -- Click the Load unpacked button (top-left).<br>
+  -- In the file explorer, select the root folder of the extracted code (the folder containing manifest.json).<br><br>
 
-##2. Load the Extension in Chrome
-  -- Open your browser and go to the Extensions page: chrome://extensions/
-  -- In the top-right corner, switch the Developer mode toggle to ON.
-  -- Click the Load unpacked button (top-left).
-  -- In the file explorer, select the root folder of the extracted code (the folder containing manifest.json).
-
-##3. Finalize Setup
-  -- The extension, RetroX Pro, is now loaded and active.
+## Finalize Setup<br>
+  -- The extension, RetroX Pro, is now loaded and active.<br><br>
 
 Click the puzzle piece icon (Extensions button) and pin the RetroX Pro icon to your toolbar for quick access to theme controls.
