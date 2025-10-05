@@ -4,6 +4,8 @@
 dark mode minimalism with a retro-futuristic twist, blending vintage sci-fi vibes with modern digital design</label><br>
 
 <p align="center"><img align="center" width="750px" height="300px" src="profileUI.png"/></p>
+<p align="center"><img align="center" width="400px" height="350px" src="RetroXUI.png"/></p>
+<p align="center"><img align="center" width="400px" height="350px" src="grokUI.png"/></p>
 <hr>
 <br>
 ##Installation & Setup (Load Unpacked Extension)<br>
