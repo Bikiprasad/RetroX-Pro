@@ -8,7 +8,8 @@ dark mode minimalism with a retro-futuristic twist, blending vintage sci-fi vibe
 <p align="center"></p>
 <hr>
 <br>
-##Installation & Setup (Load Unpacked Extension)<br>
+
+# Installation & Setup (Load Unpacked Extension)<br>
 
 Follow these steps to quickly load and run the RetroX Pro extension in your Chrome browser.<br>
 
