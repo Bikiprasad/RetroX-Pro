@@ -4,7 +4,7 @@
 dark mode minimalism with a retro-futuristic twist, blending vintage sci-fi vibes with modern digital design</label><br>
 
 <p align="center"><img align="center" width="750px" height="300px" src="profileUI.png"/></p>
-<p align="center"><img align="center" width="350px" height="300px" src="RetroXUI.png"/> <img align="center" width="350px" height="300px" src="grokUI.png"/></p>
+<p align="center"><img align="center" width="350px" height="400px" src="RetroXUI.png"/> <img align="center" width="350px" height="400px" src="grokUI.png"/></p>
 <p align="center"></p>
 <hr>
 <br>
