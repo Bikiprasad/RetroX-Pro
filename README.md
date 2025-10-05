@@ -1,6 +1,9 @@
 <p align="center"><img align="center" width="100px" height="100px" src="retroxicon.png"/></p>
 <H1> RetroX Pro </H1>
 <label>Run the Ghost Protocol. This extension provides a low-signature, custom-calibrated UI overlay for maximum visual stealth and effortless theme shifting.</label><br>
+
+<p align="center"><img align="center" width="600px" height="200px" src="retroxicon.png"/></p>
+<hr>
 <br>
 ##Installation & Setup (Load Unpacked Extension)<br>
 
