@@ -3,7 +3,7 @@
 <label>Run the Ghost Protocol. This extension provides a low-signature, custom-calibrated UI overlay for maximum visual stealth and effortless theme shifting.X UI just got a futuristic facelift!
 dark mode minimalism with a retro-futuristic twist, blending vintage sci-fi vibes with modern digital design</label><br>
 
-<p align="center"><img align="center" width="600px" height="200px" src="retroxicon.png"/></p>
+<p align="center"><img align="center" width="750px" height="300px" src="profileUI.png"/></p>
 <hr>
 <br>
 ##Installation & Setup (Load Unpacked Extension)<br>
