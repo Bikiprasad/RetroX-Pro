@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "RetroX Pro",
+  "version": "1.0",
+  "description": "Run the Ghost Protocol. This extension provides a low-signature, custom-calibrated UI overlay for maximum visual stealth and effortless theme shifting.",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*", "https://x.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+        "16": "retroxicon16.png",
+        "48": "retroxicon48.png",
+        "128": "retroxicon128.png"
+      }
+}
